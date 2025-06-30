@@ -42,7 +42,7 @@ npm install
 ```
 ### 3.Create a .env file in the backend directory:
 ```bash
-GOOGLE_GEMINI_KEY = your_goofle_gemini_key
+GOOGLE_GEMINI_KEY = your_google_gemini_key
 ```
 ### 4.Run the backend server with nodemon
 ```bash
