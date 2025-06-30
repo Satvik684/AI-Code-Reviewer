@@ -16,7 +16,7 @@ A minimal AI-powered code review app that uses the **Gemini API** to review code
 **Frontend**:
 - React
 - Axios
-- Tailwind CSS (or your preferred styling library)
+- Tailwind CSS
 
 **Backend**:
 - Node.js
