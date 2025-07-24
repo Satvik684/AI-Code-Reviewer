@@ -58,4 +58,8 @@ npm run dev
 Now the website should be running on your local react server
 
 
+### The Project is deployed on this url
+https://ai-code-reviewer-1-ou3d.onrender.com
+
+
 
